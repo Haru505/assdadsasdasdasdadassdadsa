@@ -9,7 +9,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(248, 255, 173, 0.349),rgba(4,9,30,0.7)),url(images/Rizal bg.jpg);
+    background-image: linear-gradient(rgba(248, 255, 173, 0.349),rgba(4,9,30,0.7)),url(images/Rizal\ bg.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
